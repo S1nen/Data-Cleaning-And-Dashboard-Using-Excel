@@ -1,6 +1,6 @@
 # Data-Cleaning-And-Dashboard-Using-Excel
 
-Business Objective
+### Business Objective
 The goal was to clean and analyze a messy freelancer dataset containing inconsistent, incomplete, and duplicate records. The final output needed to provide a clear dashboard of freelancer demographics, skills, performance, and demand trends to support decision-making.
 
 Problem Statement
